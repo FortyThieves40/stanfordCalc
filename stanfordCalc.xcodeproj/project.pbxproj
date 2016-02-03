@@ -12,6 +12,7 @@
 		F60790891C457430006F2B1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F60790871C457430006F2B1E /* Main.storyboard */; };
 		F607908B1C457430006F2B1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F607908A1C457430006F2B1E /* Assets.xcassets */; };
 		F607908E1C457430006F2B1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F607908C1C457430006F2B1E /* LaunchScreen.storyboard */; };
+		F6E4AB421C480C14006F1CB0 /* calcBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E4AB411C480C14006F1CB0 /* calcBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F607908A1C457430006F2B1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F607908D1C457430006F2B1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F607908F1C457430006F2B1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6E4AB411C480C14006F1CB0 /* calcBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = calcBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F60790831C457430006F2B1E /* AppDelegate.swift */,
 				F60790851C457430006F2B1E /* ViewController.swift */,
 				F60790871C457430006F2B1E /* Main.storyboard */,
+				F6E4AB411C480C14006F1CB0 /* calcBrain.swift */,
 				F607908A1C457430006F2B1E /* Assets.xcassets */,
 				F607908C1C457430006F2B1E /* LaunchScreen.storyboard */,
 				F607908F1C457430006F2B1E /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				F60790861C457430006F2B1E /* ViewController.swift in Sources */,
 				F60790841C457430006F2B1E /* AppDelegate.swift in Sources */,
+				F6E4AB421C480C14006F1CB0 /* calcBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +290,7 @@
 				F60790941C457430006F2B1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
